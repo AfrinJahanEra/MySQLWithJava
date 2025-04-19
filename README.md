@@ -59,6 +59,7 @@ This repository contains several projects that demonstrate the integration of Ja
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMwczU0ejVhcWp3MzA0Mnh3YjFkdmtuN3pzdHB5eDV5bTlzcmZ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uuqTizcCXq7uz8KOpg/giphy.gif" width="250" alt="Java Animation">
+  <br>
+  <sub>☕ Powered by Java</sub>
 </div>
-
